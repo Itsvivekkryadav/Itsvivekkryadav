@@ -18,9 +18,8 @@ I'm a **programmer, AI engineer, animation & video editor**, and currently an **
 I’m pursuing **B.Tech in Computer Science**, and I’m deeply passionate about **coding, design, and innovation**.  
 
 - 💡 Skilled in **C, C++, Python, HTML, CSS, JavaScript, SQL**  
-- 🌱 Currently learning **Java, React, Machine Learning, and AI**  
+- 🌱 Currently learning **DSA, Machine Learning, and AI**  
 - 🎯 Interested in **Artificial Intelligence & Data Science**  
-- 🎨 Experienced in **3D design, video editing, and audio production**  
 - 🚀 Always curious and exploring **new technologies** to grow as a developer  
 
 ---
