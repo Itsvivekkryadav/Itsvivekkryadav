@@ -1,18 +1,14 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="700" alt="Welcome Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I am Vivek Kumar Yadav 👋</h1>
+![Welcome Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm+glad+to+see+you+here!+%F0%9F%91%8B;Aspiring+AI+%26+Computer+Science+Engineer!%F0%9F%A7%B9;Always+Learning+and+Building+New+Things!🚀" alt="Typing SVG">
-</p>
+# Hi, I am Vivek Kumar Yadav 👋
 
-<p align="center">
-  <a href="https://github.com/VivekKumarYadav">
-    <img src="https://komarev.com/ghpvc/?username=VivekKumarYadav&style=for-the-badge&color=blue" alt="Profile Views"/>
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm+glad+to+see+you+here!+%F0%9F%91%8B;Aspiring+AI+%26+Computer+Science+Engineer!%F0%9F%A7%B9;Always+Learning+and+Building+New+Things!🚀)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=VivekKumarYadav&style=for-the-badge&color=blue)](https://github.com/VivekKumarYadav)
+
+</div>
 
 ---
 
