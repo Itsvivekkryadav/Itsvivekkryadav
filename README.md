@@ -34,6 +34,19 @@ I’m pursuing **B.Tech in Computer Science**, and I’m deeply passionate about
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itsvivekkryadav&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Itsvivekkryadav&theme=gruvbox&hide_border=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsvivekkryadav&theme=gruvbox&hide_border=false&layout=compact)
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Itsvivekkryadav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
